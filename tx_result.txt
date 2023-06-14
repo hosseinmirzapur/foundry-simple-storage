@@ -1,0 +1,57 @@
+No files changed, compilation skipped
+Script ran successfully.
+
+== Return ==
+0: contract SimpleStorage 0xb19b36b1456E65E3A6D514D3F715f204BD59f431
+
+EIP-3855 is not supported in one or more of the RPCs used.
+Unsupported Chain IDs: 31337.
+Contracts deployed with a Solidity version equal or higher than 0.8.20 might not work properly.
+For more information, please see https://eips.ethereum.org/EIPS/eip-3855
+
+==========================
+
+Chain 31337
+
+Estimated gas price: 4.755951468 gwei
+
+Estimated total gas used for script: 464097
+
+Estimated amount required: 0.002207222808444396 ETH
+
+==========================
+
+###
+Finding wallets for all the necessary addresses...
+##
+Sending transactions [0 - 0].
+
+Transactions saved to: D:/Projects/solidity/foundry-f23/foundry-simple-storage-f23/broadcast\DeploySimpleStorage.s.sol\31337\run-latest.json
+
+Sensitive values saved to: D:/Projects/solidity/foundry-f23/foundry-simple-storage-f23/cache\DeploySimpleStorage.s.sol\31337\run-latest.json
+
+##
+Waiting for receipts.
+
+##### anvil-hardhat
+ [Success] Hash: 0xa62ffa7880d6dc3c74797f4eb02150569a5bccadf93d9066ca4c678da16ed207
+Contract Address: 0xb19b36b1456e65e3a6d514d3f715f204bd59f431
+Block: 3
+Paid: 0.001346522209915232 ETH (357088 gas * 3.770841389 gwei)
+
+
+Transactions saved to: D:/Projects/solidity/foundry-f23/foundry-simple-storage-f23/broadcast\DeploySimpleStorage.s.sol\31337\run-latest.json
+
+Sensitive values saved to: D:/Projects/solidity/foundry-f23/foundry-simple-storage-f23/cache\DeploySimpleStorage.s.sol\31337\run-latest.json
+
+
+
+==========================
+
+ONCHAIN EXECUTION COMPLETE & SUCCESSFUL.
+Total Paid: 0.001346522209915232 ETH (357088 gas * avg 3.770841389 gwei)
+
+Transactions saved to: D:/Projects/solidity/foundry-f23/foundry-simple-storage-f23/broadcast\DeploySimpleStorage.s.sol\31337\run-latest.json
+
+Sensitive values saved to: D:/Projects/solidity/foundry-f23/foundry-simple-storage-f23/cache\DeploySimpleStorage.s.sol\31337\run-latest.json
+

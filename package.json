@@ -1,0 +1,8 @@
+{
+	"version": "1.0.0",
+	"license": "MIT",
+	"scripts": {
+		"script": "forge script script/DeploySimpleStorage.s.sol --broadcast",
+		"deploy": "forge c SimpleStorage --interactive"
+	}
+}
